@@ -4,7 +4,9 @@
 
 - [코드 보러가기](https://github.com/engus93/gaibaCloneWeb)
 
-- [웹 표준 사이트 이동하기](https://engus93.github.io/gaibaCloneWeb/)
+- [웹 표준 사이트 이동하기](https://engus93.github.io/gaibaCloneWeb/index.html)
+
+- [반응형 사이트 이동하기](https://engus93.github.io/gaibaCloneWeb/gabiaMobail/index.html)
 
 [Web's](https://www.youtube.com/watch?v=BcR_Qa-yDZY&list=PL4UVBBIc6giK_T_7i7MssZ516YIRUmhAm&index=1) 사이트에 강의를 보고 만든 웹 표준 사이트 입니다.
 
