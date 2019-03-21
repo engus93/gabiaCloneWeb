@@ -10,4 +10,4 @@
 
 [Web's](https://www.youtube.com/watch?v=BcR_Qa-yDZY&list=PL4UVBBIc6giK_T_7i7MssZ516YIRUmhAm&index=1) 사이트에 강의를 보고 만든 웹 표준 사이트 입니다.
 
-### - [다른 사이트 보러가기](https://github.com/engus93/engus93.github.io)
+### [Github - TIL로 이동하기](https://github.com/engus93/TIL)
